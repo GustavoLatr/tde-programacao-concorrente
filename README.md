@@ -1,6 +1,6 @@
 # TDE - Programação Concorrente
 
-**Link do Vídeo:** [Em atualização]
+**Link do Vídeo:** (https://youtu.be/t2VeXdHRgcE)
 
 ## Integrantes
 - Bernardo Ranieri
